@@ -12,6 +12,10 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="0 of 0 Champions"
+        android:layout_alignParentTop="false"
+        android:layout_centerHorizontal="true"
+        android:background="#6c6a6a"
+        android:textColor="#fdfbfb" />
 
 </RelativeLayout>

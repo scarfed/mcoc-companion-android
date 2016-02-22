@@ -7,4 +7,16 @@
         android:orderInCategory="100"
         android:title="@string/action_settings"
         app:showAsAction="never" />
+    <item
+        android:id="@+id/action_roster"
+        android:orderInCategory="200"
+        android:title="Roster" />
+    <item
+        android:id="@+id/action_team"
+        android:orderInCategory="300"
+        android:title="Team" />
+    <item
+        android:id="@+id/action_synergies"
+        android:orderInCategory="400"
+        android:title="Synergies" />s
 </menu>
